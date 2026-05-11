@@ -1,4 +1,2 @@
-
-
 new test2 file in branch1
 
